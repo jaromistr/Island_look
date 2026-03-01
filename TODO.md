@@ -15,12 +15,11 @@
 - [ ] **Brandy** — zjistit všechny značky v obchodě pro sekci "Brands we love"
 
 ## SEO & Google
-- [ ] **Google Search Console** — přidat doménu `islandlook.id`, submitnout sitemap
-- [ ] **Google Business Profile** — potřebujeme přístup od Tania, ověřit že je verified
-- [ ] **Google Business Profile — web** — přidat odkaz na `islandlook.id` do profilu
+- [x] **Google Search Console** — doména přidána ✅, submitnout sitemap
+- [x] **Google Business Profile** — ověřeno přes Google účet ✅
+- [x] **Google Business Profile — web** — nastaveno ✅
 
 ## Ke zjištění od Tania
-- [ ] **Přístup ke Google Business Profile** — potřebujeme součinnost pro Search Console a ověření profilu
 - [ ] **WhatsApp číslo** — ověřit správné číslo pro web
 - [ ] **WhatsApp Business** — zvážit založení WA Business účtu
 - [ ] **Otevírací hodiny** — přesné hodiny pro web

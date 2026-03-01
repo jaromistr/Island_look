@@ -2,7 +2,14 @@
   "permissions": {
     "allow": [
       "mcp__Claude_Preview__preview_start",
-      "WebFetch(domain:www.google.com)"
+      "WebFetch(domain:www.google.com)",
+      "Bash(git -C /Users/itisjaro/Desktop/Island-look status -u)",
+      "Bash(git -C /Users/itisjaro/Desktop/Island-look add README.md)",
+      "Bash(git -C:*)",
+      "Bash(git -C /Users/itisjaro/Desktop/Island-look status)",
+      "WebFetch(domain:islandlook.id)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://islandlook.id/sitemap.xml)",
+      "Bash(curl -sI https://islandlook.id/sitemap.xml)"
     ]
   }
 }
